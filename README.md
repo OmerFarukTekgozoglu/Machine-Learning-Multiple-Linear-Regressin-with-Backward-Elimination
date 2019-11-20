@@ -34,7 +34,7 @@ After the download all files in the repo;
 5. Run the sections divided by "#%%".
 
 ## What's the Backward Elimination and Why I need to use this?
-So to say working dozens of independent variables to predict a dependent variable could be unpleasent, unlovable for you. Actually all of us hate to the choose correct features to the ML algorithm. So, Backward Elimination come up with a solution thanks to Statistics.  
+So to say working dozens of independent variables to predict a dependent variable could be unpleasent-unlovable for you. Actually all of us hate to the choose correct features to the ML algorithm. So, Backward Elimination comes up with a solution thanks to Statistics.  
 
 In the Statistics there is a huge topics called as P-Value. [Detailed](https://www.youtube.com/watch?v=KS6KEWaoOOE)
 
