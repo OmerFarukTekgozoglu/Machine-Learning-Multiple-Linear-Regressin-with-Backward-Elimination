@@ -93,3 +93,10 @@ Kurtosis:                       2.519   Cond. No.                         144.
 ```
 
 In the above there was a artificial data and I did not kick out the highest P-Values. It doesn't make any sense to do that for an artificial data. But you should do this in your ML algorithm that have linear relationship between variables.
+
+Still if I do that it's seems like;
+
+```
+X = X[:,[0,2]]
+```
+This means I kicked out the first 1 indexed independent variable. After the obtaining new X, you should fit the algorithm on your new data and labels. And run the .summary command again until when there is no higher values than the significant level.
