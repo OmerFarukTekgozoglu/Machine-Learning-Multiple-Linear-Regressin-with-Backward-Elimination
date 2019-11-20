@@ -40,7 +40,7 @@ In the Statistics there is a huge topics called as P-Value. [Detailed](https://w
 
 To understanding the P - Values we have to mention that the null hypothesis: The null hypothesis is the assumption that the parameters associated to your independet variables are equal to zero. So, this means you doesn't have a certain pattern to the observations. The P-Value is the probability that the parameters associated to your independent variables have certain nonzero variables when the null hypothesis is True.
 
-A more plenty explanition is the lowe P-Values are the good guys, higher P-Values are the bad guys, and there is no ugly. [Movie](https://www.imdb.com/title/tt0060196/)
+A more plenty explanition is the lower P-Values are the good guys, higher P-Values are the bad guys, and there is no ugly. [Movie](https://www.imdb.com/title/tt0060196/)
 
 ## Manually Backward Elimination
 In your ML algorithm you should do this elimanation methods once manually for a good understanding. I mean, I did it manually for many times in the past. After the some practices you can use a for loop to do this automatically.
